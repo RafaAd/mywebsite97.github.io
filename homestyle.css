@@ -1,0 +1,181 @@
+
+
+.background{
+  background-color: #050505;
+  height: 650px;
+  margin: 10px 35px 20px 35px;
+  box-shadow: 0px 4px 4px 0px ;
+  margin-bottom: 150px;
+}
+
+.background-header{
+ background-image:url(http://images.unsplash.com/photo-1579636858731-24857b3f4305?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max);
+ height: 640px;
+ width:630px;
+margin: 10px;
+background-position: center;
+background-size: cover;
+margin-left: 630px;
+margin-top: 10px;
+
+}
+
+.title{
+  position: absolute;
+  top: 40%;
+  left: 18%;
+}
+.title h1{
+color:white;
+font-size: 70px;
+font-family: Serif;
+
+}
+.title h4{
+  color:#B9770E;
+  font-family: Cursive;
+
+}
+.button{
+  position: absolute;
+  top: 63%;
+  left: 24%;
+
+}
+.btu{
+  border: 2px solid white;
+  text-decoration:none;
+  color: white;
+  padding: 10px 40px;
+  font-size: 20px;
+  padding:10px 50px;
+  margin: 10px;
+  font-family: Serif;
+
+}
+
+.btu:hover{
+  background-color: white;
+  transition:0.6s ease;
+  color: black;
+  text-decoration:none;
+font-weight: 600;
+
+}
+
+
+.About_title{
+text-align: center;
+
+}
+.About_title h2{
+color:black;
+font-family: Serif;
+
+}
+.About_title h4{
+  color:#B9770E;
+  font-family: Cursive;
+
+}
+.About_title p{
+  padding: 30px 60px 30px 30px;
+}
+
+
+.pic1{
+  margin: 30px 20px 200px 65px;
+
+}
+.shado-img img{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+.pic3{
+  position: absolute;
+  top:152.5%;
+  left: 35%;
+
+}
+.pic2{
+  position: absolute;
+  top:152.5%;
+  left: 67%;
+
+}
+
+
+
+.ad_contact{
+margin: 10px 80px 90px 90px;
+color: white;
+
+}
+.email-contact{
+  position: absolute;
+  top:220.5%;
+  left: 33%;
+  color: white;
+
+}
+.Follow_contact{
+  position: absolute;
+  top:248.5%;
+  left: 33%;
+  color: white;
+
+}
+.form-contact{
+  position: absolute;
+  top:219%;
+  left: 55%;
+  text-align: center;
+
+}
+.container-contact input[type="text"]{
+  padding: 5px 23px ;
+  margin: 14px 10px 20px 2px ;
+}
+.container-contact textarea{
+  margin: 14px 10px 20px 2px ;
+}
+.button-contact {
+  background-color: #B9770E;
+  border: none;
+  color: black;
+  padding: 10px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-size:18px;
+}
+
+.button-contact:hover {
+  background-color:#88580B;
+}
+.Follow_contact a{
+  font-size: 30px;
+
+}
+
+.bk-contant{
+  background-color: #050505;
+  margin-bottom: 50px;
+  padding-top: 50px;
+  padding-bottom: 25px
+
+
+}
+
+.bk-contant a{
+  text-decoration: none;
+  color:#B9770E;
+}
+.bk-contant a:hover{
+  text-decoration: none;
+  color:#88580B;
+font-weight: 600;
+}

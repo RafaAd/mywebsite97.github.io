@@ -1,0 +1,181 @@
+
+.background{
+  background-image:url(https://storage.googleapis.com/burbcommunity-aroundambler/2018/02/restaurant-week-header-background.jpg);
+  height: 600px;
+  margin: 10px 35px 20px 35px;
+  box-shadow: 0px 4px 4px 0px ;
+  background-position: center;
+
+}
+
+.title{
+  position: absolute;
+  top: 40%;
+  left: 26%;
+  text-align:center;
+
+}
+
+.title h1{
+color:black;
+font-size: 70px;
+font-family: Serif;
+
+}
+.title h4{
+  color:#B9770E;
+  font-family: Cursive;
+
+}
+.btu{
+  border: 2px solid black;
+  text-decoration:none;
+  color: black;
+  padding: 10px 40px;
+  font-size: 20px;
+  padding:10px 50px;
+  margin: 10px;
+  font-family: Serif;
+  position: absolute;
+  top: 60%;
+  left: 42%;
+  border-radius: 16px;
+
+
+
+
+}
+
+.btu:hover{
+  background-color: #9C6308;
+    border: 2px solid #9C6308;
+    color:white;
+  transition:0.6s ease;
+  text-decoration:none;
+font-weight: 600;
+
+}
+
+
+.title_menu{
+  left: 26%;
+  text-align:center;
+  margin-top: 150px;
+  margin-bottom: 80px;
+  border-bottom: 2px dashed #B9770E;
+
+}
+
+.title_menu h1{
+color:black;
+font-size: 50px;
+font-family: Serif;
+padding-bottom: 20px;
+
+
+
+}
+.title_menu h4{
+  color:#B9770E;
+  font-family: Cursive;
+
+}
+
+
+.card1{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  max-width: 30%;
+  margin: 29px;
+  margin-left: 125px;
+}
+
+.card1:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.containermenu {
+  padding: 2px 16px;
+    text-align:center;
+
+}
+.containermenu h4{
+  padding: 10px;
+  font-size: 25px;
+  font-family: Serif;
+
+}
+.containermenu p{
+  font-size: 18px;
+  font-family: Serif;
+  color:#454443  ;
+
+}
+.buttonmenu {
+  background-color: #C9C6C0;
+
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 33px;
+  cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+padding: 14px 40px
+
+
+
+}
+
+.buttonmenu:hover{
+  background-color: #ABA8A4;
+  transition:0.6s ease;
+
+
+}
+
+.card2{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  max-width: 30%;
+  margin: 30px;
+  margin-left: 100px;
+  position: absolute;
+  top:137%;
+  left: 53%;
+}
+.card2:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+
+.card3{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  max-width: 30%;
+  margin: 30px;
+  margin-left: 100px;
+  position: absolute;
+  top:239%;
+  left: 53%;
+}
+.card3:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card4{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  max-width: 30%;
+  margin: 30px;
+  margin-left: 100px;
+  position: absolute;
+  top:334%;
+  left: 53%;
+}
+.card4:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
